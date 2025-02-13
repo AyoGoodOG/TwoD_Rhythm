@@ -1,0 +1,10 @@
+{
+  "SongName": "track1.mp3",
+  "BPM": 120,
+  "Notes": [
+    { "time": 0.5, "type": "kick", "lane": 1 },
+    { "time": 1.2, "type": "snare", "lane": 2 },
+    { "time": 2.0, "type": "hi-hat", "lane": 3 },
+    { "time": 3.5, "type": "hold", "lane": 1, "duration": 1.5 }
+  ]
+}
